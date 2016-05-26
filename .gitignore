@@ -234,3 +234,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+PunyUrl/Scripts/libs/knockout/src/
+PunyUrl/Scripts/libs/jquery/sizzle/dist/sizzle.js
+PunyUrl/Scripts/libs/jquery/src/

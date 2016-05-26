@@ -1,0 +1,21 @@
+{
+  "name": "PunyUrl",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "punyurl.azurewebsites.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "3.4.0",
+    "jquery": "2.2.3"
+  },
+  "resolutions": {
+    "knockout": "3.4.0"
+  }
+}
